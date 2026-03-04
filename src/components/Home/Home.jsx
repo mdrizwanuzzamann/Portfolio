@@ -18,7 +18,7 @@ const Home = () => {
         </a>
 
         {/* Put resume link below 👇 */}
-        <a href="https://drive.google.com/file/d/1d23Q2Kv2uB7l4UXb-XZ4Nap6I-W_nc9c/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/1evO978nu6FFr_hNwFfduXtpSsl9yRlhh/view?usp=sharing">
           <button className="cursor-pointer mx-2 mt-5 md:md-10 text-white py02 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]">
             Download Resume
           </button>
