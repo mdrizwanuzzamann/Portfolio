@@ -4,9 +4,9 @@ import avatarImg from "../../assets/mine4_edited.png";
 const Home = () => {
   return (
     <div className="text-white flex w-full justify-between items-start p-10 md:p-20">
-      <div className="md:w-2/4 md:pt-10 ">
+      <div className="md:w-2/4 md:pt-10 mt-16">
         <h1 className="text-xl md:text-6xl font-bold flex leading-normal tracking-tighter">
-      Hi, I'm Rizwan
+        Hi, I'm Rizwan
         </h1>
         <p className="text-sm mb-8 md:text-2xl tracking-tight ">
           A Full Stack Web Developer & Tech Enthusiast
@@ -25,7 +25,8 @@ const Home = () => {
         </a>
       </div>
       <div>
-        <img className="saturate-150 contrast-120 brightness-100 blur-0" src={avatarImg} alt="" />
+                <img className="" src={avatarImg} alt="" />
+        
       </div>
     </div>
   );
